@@ -35,9 +35,7 @@ Por favor, consulte o guia de contribuições aqui: [/Current Releases/head/cont
 
 ## Patrocinadores do SAMM
 
-Nós agradecemos aos patrocinadores pelo suporte ao OWASP SAMM. 
-
-We thank our sponsors for their OWASP SAMM support. Todas as receitas do patrocínio apoiam a missão da Fundação OWASP e o desenvolvimento do SAMM. O apoio ao projeto impulsiona o financiamento de bolsas de pesquisa, hospedagem SAMM, ferramentas, modelos, documentos, promoção e muito mais.
+Nós agradecemos aos patrocinadores pelo suporte ao OWASP SAMM. Todas as receitas do patrocínio apoiam a missão da Fundação OWASP e o desenvolvimento do SAMM. O apoio ao projeto impulsiona o financiamento de bolsas de pesquisa, hospedagem SAMM, ferramentas, modelos, documentos, promoção e muito mais.
 
 Ao patrocinar o SAMM, você não apenas apóia um projeto importante e emblemático do OWASP, mas também terá visibilidade durante a próxima Conferência de Usuários do SAMM e reconhecimento no OWASP SAMM [web site](https://owaspsamm.org/) e também em próximas releases do SAMM.
 
