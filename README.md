@@ -1,50 +1,49 @@
-SAMM (Software Assurance Maturity Model )
+SAMM (Software Assurance Maturity Model)
 ========
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FOWASP%2Fsamm%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/OWASP/samm/goto?ref=master)
 
-Welcome to the OWASP SAMM github repository.
+Seja bem-vindo ao repositório de tradução do projeto OWASP SAMM para o português do Brasil.
 
-This repository contains the source files for OWASP SAMM.
+Este repositório nasceu de um clone do repositório original em inglês em [https://github.com/OWASP/samm](https://github.com/OWASP/samm) para a tradução pt-BR.
 
-You will find more information at [owaspsamm.org](https://owaspsamm.org/) or the [OWASP SAMM project wiki page](https://www.owasp.org/index.php?title=Category:Software_Assurance_Maturity_Model)
+Mais informações sobre o projeto OWASP SAMM você encontra na página oficial do projeto (em inglês) [owaspsamm.org](https://owaspsamm.org/).
 
-This will not help you with your twitter addiction, but our premier source for SAMM gossip and news is [@owaspSAMM](https://twitter.com/owaspsamm).
+A principal fonte de informações do SAMM é o Twitter (em inglês) [@owaspSAMM](https://twitter.com/owaspsamm).
 
-Or speak to us on our [Slack channel](https://owasp.slack.com/messages/C0VF1EJGH)!
+Você pode também participar (em inglês) pelo [canal do Slack](https://owasp.slack.com/messages/C0VF1EJGH)!
 
-## Directories
+## Tradução para o pt-BR
 
-- Current Releases: maintained versions of OWASP SAMM in a format/structure that is compatible with the static site generator (Hugo)
-- Website: source for the static website and related libraries
-- Supporting Resources: other files, notes and presentations that do not follow the Hugo model
+A tradução do OWASP SAMM para o português do Brasil (pt-BR) é uma iniciativa do [Capítulo OWASP de Belo Horizonte](https://owasp.org/www-chapter-belo-horizonte/)
 
-## Contributions
+## Diretórios
 
-Please see guidance here: [/Current Releases/head/contributing-to-git.md](https://github.com/OWASP/samm/blob/master/Current%20Releases/head/contributing-to-git.md).
+- Current Releases: versão ainda em manutenção do OWASP SAMM no formato e estrutura que é compatível o gerador de sites estáticos [Hugo](https://gohugo.io/)
+- Website: arquivos fonte do site estático e as bibliotecas co-relatas
+- Supporting Resources: outros arquivos, blocos de notas e apresentações que não seguem o modelo do Hugo
 
-## Custom Development
-* Install hugo or pull a hugo docker image
-* Clone this repo
-* Change directory to _Website/hugo_
+## Contribuições
+
+Por favor, consulte o guia de contribuições aqui: [/Current Releases/head/contributing-to-git.md](https://github.com/OWASP/samm/blob/master/Current%20Releases/head/contributing-to-git.md).
+
+## Desenvolvimento
+* Instale o Hugo ou use uma imagem docker do Hugo
+* Faça o clone deste repositório
+* Vá até o diretório _Website/hugo_
 * Execute `hugo server`
 
-## SAMM Sponsors
+## Patrocinadores do SAMM
 
-We thank our sponsors for their OWASP SAMM support. All proceeds from the
-sponsorship support the mission of the OWASP Foundation and the further
-development of SAMM. Supporting the project drives the funding for
-research grants, SAMM hosting, tools, templates, documents, promotion,
-and more.
+Nós agradecemos aos patrocinadores pelo suporte ao OWASP SAMM. 
 
-By sponsoring SAMM, you not only support an important and flagship OWASP
-project, you will also get visibility during the next SAMM User Conference 
-and recognition on the OWASP SAMM [web site](https://owaspsamm.org/) and
-the next releases of SAMM.
+We thank our sponsors for their OWASP SAMM support. Todas as receitas do patrocínio apoiam a missão da Fundação OWASP e o desenvolvimento do SAMM. O apoio ao projeto impulsiona o financiamento de bolsas de pesquisa, hospedagem SAMM, ferramentas, modelos, documentos, promoção e muito mais.
 
-For more information: Contact <seba@owasp.org>
+Ao patrocinar o SAMM, você não apenas apóia um projeto importante e emblemático do OWASP, mas também terá visibilidade durante a próxima Conferência de Usuários do SAMM e reconhecimento no OWASP SAMM [web site](https://owaspsamm.org/) e também em próximas releases do SAMM.
 
-### Project Sponsors
+Para mais informações: Contato <seba@owasp.org>
+
+### Patrocinadores do projeto
 * [Concord](https://concordusa.com/)
 * [Fortify](https://www.microfocus.com/en-us/solutions/application-security)
 * [NCC Group](https://www.nccgroup.trust/uk/)
